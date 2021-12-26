@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: c9c2fcdff8f661e4bb09ba5e1a7c9af5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Guardian-Bip001
+    100002: Guardian-Bip001 Head
+    100004: Guardian-Bip001 HeadNub
+    100006: Guardian-Bip001 L Calf
+    100008: Guardian-Bip001 L Clavicle
+    100010: Guardian-Bip001 L Finger0
+    100012: Guardian-Bip001 L Finger01
+    100014: Guardian-Bip001 L Finger02
+    100016: Guardian-Bip001 L Finger0Nub
+    100018: Guardian-Bip001 L Finger1
+    100020: Guardian-Bip001 L Finger11
+    100022: Guardian-Bip001 L Finger12
+    100024: Guardian-Bip001 L Finger1Nub
+    100026: Guardian-Bip001 L Foot
+    100028: Guardian-Bip001 L Forearm
+    100030: Guardian-Bip001 L Hand
+    100032: Guardian-Bip001 L Thigh
+    100034: Guardian-Bip001 L Toe0
+    100036: Guardian-Bip001 L Toe0Nub
+    100038: Guardian-Bip001 L UpperArm
+    100040: Guardian-Bip001 Neck
+    100042: Guardian-Bip001 Pelvis
+    100044: Guardian-Bip001 R Calf
+    100046: Guardian-Bip001 R Clavicle
+    100048: Guardian-Bip001 R Finger0
+    100050: Guardian-Bip001 R Finger01
+    100052: Guardian-Bip001 R Finger02
+    100054: Guardian-Bip001 R Finger0Nub
+    100056: Guardian-Bip001 R Finger1
+    100058: Guardian-Bip001 R Finger11
+    100060: Guardian-Bip001 R Finger12
+    100062: Guardian-Bip001 R Finger1Nub
+    100064: Guardian-Bip001 R Foot
+    100066: Guardian-Bip001 R Forearm
+    100068: Guardian-Bip001 R Hand
+    100070: Guardian-Bip001 R Thigh
+    100072: Guardian-Bip001 R Toe0
+    100074: Guardian-Bip001 R Toe0Nub
+    100076: Guardian-Bip001 R UpperArm
+    100078: Guardian-Bip001 Spine
+    100080: Guardian-Bip001 Spine1
+    100082: //RootNode
+    100084: lefthandweapon
+    100086: leftshoulder
+    100088: righthandweapon
+    100090: rightshoulder
+    400000: Guardian-Bip001
+    400002: Guardian-Bip001 Head
+    400004: Guardian-Bip001 HeadNub
+    400006: Guardian-Bip001 L Calf
+    400008: Guardian-Bip001 L Clavicle
+    400010: Guardian-Bip001 L Finger0
+    400012: Guardian-Bip001 L Finger01
+    400014: Guardian-Bip001 L Finger02
+    400016: Guardian-Bip001 L Finger0Nub
+    400018: Guardian-Bip001 L Finger1
+    400020: Guardian-Bip001 L Finger11
+    400022: Guardian-Bip001 L Finger12
+    400024: Guardian-Bip001 L Finger1Nub
+    400026: Guardian-Bip001 L Foot
+    400028: Guardian-Bip001 L Forearm
+    400030: Guardian-Bip001 L Hand
+    400032: Guardian-Bip001 L Thigh
+    400034: Guardian-Bip001 L Toe0
+    400036: Guardian-Bip001 L Toe0Nub
+    400038: Guardian-Bip001 L UpperArm
+    400040: Guardian-Bip001 Neck
+    400042: Guardian-Bip001 Pelvis
+    400044: Guardian-Bip001 R Calf
+    400046: Guardian-Bip001 R Clavicle
+    400048: Guardian-Bip001 R Finger0
+    400050: Guardian-Bip001 R Finger01
+    400052: Guardian-Bip001 R Finger02
+    400054: Guardian-Bip001 R Finger0Nub
+    400056: Guardian-Bip001 R Finger1
+    400058: Guardian-Bip001 R Finger11
+    400060: Guardian-Bip001 R Finger12
+    400062: Guardian-Bip001 R Finger1Nub
+    400064: Guardian-Bip001 R Foot
+    400066: Guardian-Bip001 R Forearm
+    400068: Guardian-Bip001 R Hand
+    400070: Guardian-Bip001 R Thigh
+    400072: Guardian-Bip001 R Toe0
+    400074: Guardian-Bip001 R Toe0Nub
+    400076: Guardian-Bip001 R UpperArm
+    400078: Guardian-Bip001 Spine
+    400080: Guardian-Bip001 Spine1
+    400082: //RootNode
+    400084: lefthandweapon
+    400086: leftshoulder
+    400088: righthandweapon
+    400090: rightshoulder
+    7400000: Guardian@run01
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Guardian@run01
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
